@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Administrator\Desktop\deng\51³ÌÐò\×ÛºÏ\lesson10_2.uvproj
+Project File Date:  05/07/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling lesson10_2.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY?LESSON10_2
+Program Size: data=21.0 xdata=0 code=1038
+creating hex file from "lesson10_2"...
+"lesson10_2" - 0 Error(s), 1 Warning(s).
